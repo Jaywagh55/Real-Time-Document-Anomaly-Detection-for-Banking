@@ -1,0 +1,24 @@
+{
+  "application_id": "app-001",
+  "customer_id": "cust-001",
+  "documents": [
+    {
+      "id": "doc-001",
+      "type": "land_record",
+      "filename": "encumbrance_certificate.pdf",
+      "content": "Customer name: Rajesh Kumar. Survey no: 12567. Area: 3500 sqft. Encumbrance date: 12-03-2026.\nTransaction amount: ₹1,25,00,000."
+    },
+    {
+      "id": "doc-002",
+      "type": "financial_statement",
+      "filename": "profit_and_loss.pdf",
+      "content": "Total revenue: ₹1,20,00,000. Net profit: ₹32,00,000. GSTIN: 27ABCDE1234F1Z5. PAN: ABCDE1234F."
+    },
+    {
+      "id": "doc-003",
+      "type": "legal_document",
+      "filename": "noc_letter.pdf",
+      "content": "NOC issued by seller: Suresh Patel. Property transfer date: 15-03-2026. Survey no: 12567."
+    }
+  ]
+}

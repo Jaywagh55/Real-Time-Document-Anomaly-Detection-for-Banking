@@ -1,0 +1,16 @@
+fastapi>=0.105.0
+uvicorn[standard]>=0.23.0
+pydantic>=2.8.0
+python-multipart>=0.0.6
+requests>=2.31.0
+Pillow>=10.0.0
+opencv-python>=4.9.0.74
+pytesseract>=0.3.10
+pdfplumber>=0.9.0
+
+# Optional / heavy dependencies (install as needed):
+# spacy
+# torch
+# torchvision
+# shap
+# neo4j
