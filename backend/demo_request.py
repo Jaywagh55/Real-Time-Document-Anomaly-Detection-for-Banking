@@ -2,7 +2,7 @@ import json
 import pathlib
 import requests
 
-BASE_URL = "http://localhost:8000/api/v1/analyze"
+BASE_URL = "https://real-time-document-anomaly-detection-for.onrender.com/api/v1/analyze"
 
 
 def load_sample_documents():
